@@ -3,8 +3,8 @@ angular-clean-shot
 
 ##I. What is it?
 
-This repository is the working example of the AngularJS Clean Shot article available on
-[https://medium.com/@adrael/angularjs-clean-shot-4c5d09f4b12c]Medium 
+This repository is the working example of the AngularJS Clean Shot article available on Medium at
+https://medium.com/@adrael/angularjs-clean-shot-4c5d09f4b12c 
 
 ##II. Installation
 

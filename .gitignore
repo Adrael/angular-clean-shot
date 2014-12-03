@@ -3,5 +3,4 @@ node_modules
 dist
 docs
 .tmp
-.sass-cache
 bower_components
