@@ -1,0 +1,11 @@
+body {
+    color: #ffffff;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: #333333;
+    font-family: 'Oswald', sans-serif;
+}
+
+h1, p {
+    text-align: center;
+}
