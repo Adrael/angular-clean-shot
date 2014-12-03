@@ -1,0 +1,2 @@
+angular-clean-shot
+==================
